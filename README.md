@@ -14,10 +14,14 @@ An automated bot for managing airdrop tasks using multiple accounts and proxy su
 - Node.js v16 or higher
 - npm or yarn package manager
 
+This is a maintained fork of [airdropinsiders/MinionLab-Auto-Bot](https://github.com/airdropinsiders/MinionLab-Auto-Bot)
+All Credits goes to him, i am not the rightful owner.
+
 ## Installation
 1. Clone the repository
+# MinionLab-Auto-Bot
 ```bash
-git clone https://github.com/airdropinsiders/MinionLab-Auto-Bot.git
+git clone https://github.com/KelvinzLeoN/MinionLab-Auto-Bot.git
 cd MinionLab-Auto-Bot
 ```
 2. Install dependencies:
